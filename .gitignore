@@ -8,3 +8,8 @@ gradle.properties
 ### Intellij ###
 *.iml
 .idea/
+
+# Key smoke Upload
+NMapViewer.java
+
+C:\Development\workspace\bit2017\android\maps.android\app\src\main\java\com\nhn\android\mapviewer\NMapViewer.java
