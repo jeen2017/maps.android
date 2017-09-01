@@ -67,7 +67,7 @@ public class NMapViewer_sample extends NMapActivity {
 	// set your Client ID which is registered for NMapViewer library.
 	// CLIENT_ID에 본인의 naver map client_id를 붙여 넣은 후
 	// NMapViewer.java로 이름을 바꾸어 빌드 하시오
-	private static final String CLIENT_ID = "YOUR NABER MAP KEY";
+	private static final String CLIENT_ID = "zwYMGm6ehLy56TEJCJ67";
 
 	private MapContainerView mMapContainerView;
 

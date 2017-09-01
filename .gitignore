@@ -9,7 +9,5 @@ gradle.properties
 *.iml
 .idea/
 
-# Key smoke Upload
+# naver smoke CLIENT_ID
 NMapViewer.java
-
-C:\Development\workspace\bit2017\android\maps.android\app\src\main\java\com\nhn\android\mapviewer\NMapViewer.java
